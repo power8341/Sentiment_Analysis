@@ -8,9 +8,8 @@ This repository contains two Python scripts:
 ## Prerequisites  
 Ensure you have the following dependencies installed before running the scripts:  
 
-```bash
-pip install tensorflow keras numpy pandas matplotlib seaborn streamlit
-
+Install library using following command
+`pip install tensorflow keras numpy pandas matplotlib seaborn streamlit`
 
 1. deeplearning_fp.py – Deep Learning Model
 Features:
@@ -20,7 +19,7 @@ Handles data preprocessing and model training.
 Supports evaluation and visualization of results.
 
 TO expolre Run 
-*** python deeplearning_fp.py ***
+python deeplearning_fp.py
 
 Note: Ensure that your dataset is available in the required directory before executing.
 
